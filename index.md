@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![Alt text](/../master/WEBサイト-1.png?raw=true "画像のオプショナルタイトル")
+[![WEB-1.png](https://i.postimg.cc/Hn0D2c22/WEB-1.png)](https://postimg.cc/CnKQMK9B)
 
 ```markdown
 Syntax highlighted code block
